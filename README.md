@@ -1,2 +1,2 @@
-# gradebook
-Developed a gradebook and performance analysis tool for CSD 18, a data science course. Simplified grade calculation and offered insights into student performance trends. Contributed to enhancing data-driven education.
+# Gradebook
+This project focuses on analyzing the gradebook for CSD 18, a data science course with specific grading components. This project involves creating a flexible system for computing grades for CSD 18, adhering to a specific syllabus and accommodating variations in course structures. This project encourages thorough testing, problem-solving, and attention to detail, ultimately aiming to provide valuable insights into student performance.
